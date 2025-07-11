@@ -1,0 +1,23 @@
+{
+  "name": "odin-node-basic-informational-site",
+  "version": "1.0.0",
+  "description": "Repo for simple Node.js project. I will be using node to make a simple 3-page webpage using server-side code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabies/odin-node-basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabies/odin-node-basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/dabies/odin-node-basic-informational-site#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
